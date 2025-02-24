@@ -1,0 +1,17 @@
+{
+  "name": "sprint-1_job-3",
+  "version": "1.0.0",
+  "description": "Trabajo nodo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Javier Fabian",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^9.21.0",
+    "express": "^4.21.2",
+    "jest": "^29.7.0"
+  }
+}
